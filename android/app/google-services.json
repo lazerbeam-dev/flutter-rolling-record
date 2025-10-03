@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228176257363",
+    "project_id": "rolling-audio",
+    "storage_bucket": "rolling-audio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228176257363:android:9ef64471d145e9cccdc1a6",
+        "android_client_info": {
+          "package_name": "com.development.rollingaudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8wvdsUbhmLVK5AVdtiGXM7xRTYM4J1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228176257363:android:a635349cc9a6c053cdc1a6",
+        "android_client_info": {
+          "package_name": "com.example.transcribr_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8wvdsUbhmLVK5AVdtiGXM7xRTYM4J1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
